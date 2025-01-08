@@ -1,11 +1,11 @@
 [ {
-    "ip_address": "104.143.245.129",
+    "ip": "104.143.245.129",
     "port": "6369",
     "username": "cmqwhmty",
     "password": "is58nsg6xzlv"
   },
   {
-    "ip_address": "104.239.19.174",
+    "ip": "104.239.19.174",
     "port": "6851",
     "username": "cmqwhmty",
     "password": "is58nsg6xzlv"
